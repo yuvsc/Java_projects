@@ -1,1 +1,1 @@
-# Java_projects
+# just some Java projects
